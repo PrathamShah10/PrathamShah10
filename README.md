@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Shah</h1>
 <h3 align="center">I am a FullStack Web Developer and an Algorithm Enthusiast.</h3>
 
-- 💬 Ask me about **Web Development, DSA, competitive Programming**
+- 💬 Ask me about **Web Development, DSA, Competitive Programming**
 
 - 📫 How to reach me **prathamsanjayshah2001@gmail.com**
 
